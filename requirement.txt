@@ -1,0 +1,9 @@
+Visual studio code was the text editor I used to run the app.
+The Python version is 3.10.0, but it also works on 3.8.
+Packages required for installation:
+dash 
+dash_core_component
+dash_html_component
+dash.dependencies Input, output
+
+After running the code, navigate to http://127.0.0.1:8050/. and then press ctrl+c to exit
