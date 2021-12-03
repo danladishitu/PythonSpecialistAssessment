@@ -1,6 +1,6 @@
 # Python Specialist Assessment
 
-## This is a program that collects user inputs, converts the current time to UTC, and outputs the critical value that drives a business decision.
+## This is a program that collects user inputs, converts the current time to UTC, and returns the critical value that drives a business decision.
 This was accomplished using the python package called dash
 
 Packages required for installation:
